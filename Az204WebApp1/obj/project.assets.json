@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielgalvani/Documents/cloud/workspaces/Estudos/Az204/Az204WebApp1/Az204WebApp1.csproj",
+      "projectUniqueName": "/Users/danielgalvani/Documents/cloud/workspaces/Estudos/az20401/Az204WebApp1/Az204WebApp1.csproj",
       "projectName": "Az204WebApp1",
-      "projectPath": "/Users/danielgalvani/Documents/cloud/workspaces/Estudos/Az204/Az204WebApp1/Az204WebApp1.csproj",
+      "projectPath": "/Users/danielgalvani/Documents/cloud/workspaces/Estudos/az20401/Az204WebApp1/Az204WebApp1.csproj",
       "packagesPath": "/Users/danielgalvani/.nuget/packages/",
-      "outputPath": "/Users/danielgalvani/Documents/cloud/workspaces/Estudos/Az204/Az204WebApp1/obj/",
+      "outputPath": "/Users/danielgalvani/Documents/cloud/workspaces/Estudos/az20401/Az204WebApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danielgalvani/.nuget/NuGet/NuGet.Config"
